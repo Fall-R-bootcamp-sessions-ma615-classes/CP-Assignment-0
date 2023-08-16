@@ -1,2 +1,2 @@
-# CP-X-Assignment
-Template for bootcamp assignment repos
+# CP-Assignment-0
+test assignment submission methods
