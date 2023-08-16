@@ -1,0 +1,31 @@
+---
+title: "assignment_0_instructions"
+author: "Aidan O'Hara"
+date: "2023-08-16"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Assignment 0
+
+### Instructions
+Please follow along with the class while we practice making a submission via GitHub Classroom and Gradescope
+
+In the file `assignment_0.R` you will find variables names for your solutions, when you first open the file they will be commented out, `#variableName <-`, remove the `#` and add your solution.  
+
+If your file has `some variable <-` with no value it will not run and Gradescope will not grade your entire submission.
+
+To double check that your code will be ran by Gradescope, clear your environment, with the broom icon in the environments window, and source your assignment file either by clicking the source button in the editor, or running `source(assignment_0.R)`. 
+
+## Exercise 1
+Save a number larger than 10000 to the variable `bigNumber` and save a number less than 0.01 to the variable `smallNumber`
+
+## Exercise 2
+Assign a calculation to the variable `infinity` s.t. the resulting assignment is the special R value `Inf`.
+
+## Exercise 3
+Assign a calculation to the variable `notANumber` s.t. the resulting assignment is the special R value `NaN`.
+
